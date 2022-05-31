@@ -14,7 +14,6 @@ Hey, I'm Matteo an italian Software Developer IT
 ![https://cdn-icons-png.flaticon.com/24/1051/1051277.png](https://cdn-icons-png.flaticon.com/24/1051/1051277.png)
 ![https://cdn-icons-png.flaticon.com/24/732/732190.png](https://cdn-icons-png.flaticon.com/24/732/732190.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968292.png](https://cdn-icons-png.flaticon.com/24/5968/5968292.png)
-
 ![https://cdn-icons-png.flaticon.com/24/5968/5968350.png](https://cdn-icons-png.flaticon.com/24/5968/5968350.png)
 ![https://cdn-icons-png.flaticon.com/24/6132/6132222.png](https://cdn-icons-png.flaticon.com/24/6132/6132222.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968322.png](https://cdn-icons-png.flaticon.com/24/5968/5968322.png)
