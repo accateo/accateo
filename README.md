@@ -5,7 +5,7 @@
 
 
 
-- 📫 How to reach me: twitch.tv/accacoding https://twitter.com/AccaTeo
+- 📫 How to reach me: https://twitch.tv/accacoding https://twitter.com/AccaTeo
 
 
 
