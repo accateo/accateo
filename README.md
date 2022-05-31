@@ -4,7 +4,7 @@ Hey, I'm Matteo an italian Software Developer IT
 
 - 🌱 I’m currently learning ... all!
 
-![https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg](https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg)
+![/img/web-designer-and-programmer-free-vector.jpg](/img/web-designer-and-programmer-free-vector.jpg)
 
 - 📫 How to reach me: https://twitch.tv/accacoding https://twitter.com/AccaTeo
 
