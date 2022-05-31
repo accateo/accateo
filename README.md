@@ -26,3 +26,7 @@
 ![Accateo's github stats](https://github-readme-stats.vercel.app/api?username=accateo&show_icons=true&theme=tokyonight)
 
 ---
+
+## COURSE
+
+My course on Udemy: https://www.udemy.com/user/matteo-curci-2/
