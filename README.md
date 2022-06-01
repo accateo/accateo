@@ -6,7 +6,9 @@ Hey, I'm Matteo an italian Software Developer IT
 
 ![/img/web-designer-and-programmer-free-vector.jpg](/img/web-designer-and-programmer-free-vector.jpg)
 
-- 📫 How to reach me: https://twitch.tv/accacoding https://twitter.com/AccaTeo
+- 📫 How to reach me: 
+- [https://cdn-icons-png.flaticon.com/24/2111/2111668.png](https://cdn-icons-png.flaticon.com/24/2111/2111668.png) https://twitch.tv/accacoding 
+- https://twitter.com/AccaTeo
 
 
 ## 💻 TECHNOLOGIES USED
