@@ -34,4 +34,5 @@ Hey, I'm Matteo an italian Software Developer IT
 
 ## COURSE
 
-My course on Udemy: https://www.udemy.com/user/matteo-curci-2/
+My course on Udemy: 
+- ![https://cdn-icons-png.flaticon.com/24/2000/2000920.png](https://cdn-icons-png.flaticon.com/24/2000/2000920.png) https://www.udemy.com/user/matteo-curci-2/
