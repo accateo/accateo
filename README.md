@@ -26,12 +26,6 @@ Hey, I'm Matteo an italian Software Developer IT
 ![https://img.icons8.com/color/24/mongodb.png](https://img.icons8.com/color/24/mongodb.png)
 
 
----
-
-![Accateo's github stats](https://github-readme-stats.vercel.app/api?username=accateo&show_icons=true&theme=tokyonight)
-
----
-
 ## COURSE
 
 My course on Udemy: 
